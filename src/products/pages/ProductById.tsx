@@ -13,8 +13,6 @@ export const ProductById = () => {
     window.scrollTo(0, 0);
   }, [])
 
-
-
   return (
     <div className="flex-col">
       <h1 className="text-2xl font-bold">Producto</h1>
